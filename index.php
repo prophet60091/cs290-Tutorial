@@ -33,9 +33,8 @@ require_once('header.php');
         <h5 class="subheader">Robert Jackson</h5><h5 class="small subheader">CS-290 5/24/2015 </h5>
         <hr>
         <ul class="no-bullet">
-            <li><a class="webicon googleplus large" href="#">Google+</a></li>
-            <li><a class="webicon facebook large" href="#">FaceBook</a></li>
-            <li><a class="webicon github large" href="#">GitHub</a></li>
+            <li><a class="webicon googleplus large" href="https://plus.google.com/u/2/109815566502273636530/posts">Google+</a></li>
+            <li><a class="webicon github large" href="https://github.com/prophet60091">GitHub</a></li>
         </ul>
     </div>
 
